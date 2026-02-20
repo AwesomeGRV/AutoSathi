@@ -4,16 +4,16 @@ A comprehensive vehicle maintenance reminder system designed for Indian users, h
 
 ## Features
 
-- 🔐 JWT-based user authentication
-- 🚗 Multiple vehicle management per user
-- 📋 Insurance expiry tracking with reminders
-- 🏭 PUC expiry monitoring
-- 🔧 Service record logging with odometer tracking
-- ⛽ Fuel entry management with automatic mileage calculation
-- 📊 Dashboard with statistics and graphs
-- 📄 Document upload for certificates
-- 🔔 Notification system for expiry reminders
-- 👥 Role-based authentication
+-  JWT-based user authentication
+-  Multiple vehicle management per user
+-  Insurance expiry tracking with reminders
+-  PUC expiry monitoring
+-  Service record logging with odometer tracking
+-  Fuel entry management with automatic mileage calculation
+-  Dashboard with statistics and graphs
+-  Document upload for certificates
+-  Notification system for expiry reminders
+-  Role-based authentication
 
 ## Tech Stack
 
